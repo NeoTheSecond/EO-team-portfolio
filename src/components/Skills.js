@@ -8,7 +8,19 @@ export default class Skills extends React.Component{
         return(
             <PageTransition>
                 <div class='transition-item'>
-                    <div class='transition-wrapper'>
+                    <div data-aos='fade-in' class='box'>
+                        <h1>yo</h1>
+                    </div>
+                    <div data-aos='fade-in' class='box'>
+                        <h1>yo</h1>
+                    </div>
+                    <div data-aos='fade-in' class='box'>
+                        <h1>yo</h1>
+                    </div>
+                    <div data-aos='fade-in' class='box'>
+                        <h1>yo</h1>
+                    </div>
+                    <div data-aos='fade-in' class='box'>
                         <h1>yo</h1>
                     </div>
                 </div>
