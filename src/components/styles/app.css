@@ -1,3 +1,6 @@
 .navbar{
     float: center;
 }
+body{
+    background-image: linear-gradient(to right, #207a2f, #007257, #006670, #005876, #254869);
+}

@@ -19,6 +19,7 @@ export default class Who extends React.Component {
         return(
                 <Router>
                     <div className='container-fluid' id='who'>
+                        <h1>MEET THE TEAM</h1>
                         <div className='row'>
                             <div data-aos='zoom-out'data-aos-duration="1000">
                                 <Link to='neo'><img src={NeoAva} className='col-xs-4 col-sm-4 col-md-4 col-lg-4'></img></Link>
